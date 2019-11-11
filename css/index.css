@@ -250,3 +250,41 @@ footer nav a {
 .bottom-section {
 	padding: 1.5rem;
 }
+
+.contact-main {
+	text-align: center;
+	margin-top: 100px;
+	text-transform: uppercase;
+}
+
+.contact-main h1 {
+	font-size: 2rem;
+}
+
+.contact-main h2 {
+	font-size: 1.5rem;
+}
+
+form {
+	margin-top: 50px;
+	transition: all 4s ease-in-out;
+}
+
+.form-control {
+	width: 600px;
+	background: transparent;
+	border: none;
+	border-bottom: 1px solid gray;
+	color: black;
+	font-size: 18px;
+	margin-bottom: 50px;
+}
+
+input {
+	height: 45px;
+}
+
+form .submit {
+	background: gold;
+	margin: 20px;
+}
