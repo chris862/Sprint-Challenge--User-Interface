@@ -214,3 +214,39 @@ footer nav a {
 	margin-bottom: 1rem;
 	padding: 1rem;
 }
+
+
+.row1 {
+	display: flex;
+	justify-content: space-around;
+}
+
+.content-box {
+	padding: 1rem;
+	border-bottom: 1px dashed black;
+	margin: .5rem;
+
+}
+
+.content-box a {
+	margin: 10px;
+	border: 1px solid black;
+	border-radius: 5px;
+	text-decoration: none;
+	color: black;
+	padding-left: 1rem;
+	padding-right: 1rem;
+}
+
+.row2 {
+	display: flex;
+	justify-content: space-around;
+}
+
+.text {
+	padding: 1rem;
+}
+
+.bottom-section {
+	padding: 1.5rem;
+}
